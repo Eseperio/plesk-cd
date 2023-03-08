@@ -1,4 +1,4 @@
-# pleskcd
+# pleskcd - Easy browse plesk subscription directories. 
 
 `pleskcd` is a Bash script that allows you to quickly change to the document root directory of a domain on a Plesk server.
 
